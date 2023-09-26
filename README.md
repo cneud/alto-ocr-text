@@ -1,4 +1,4 @@
-## This is no longer supported, please use https://github.com/cneud/alto-tools instead.
+## This is no longer supported, please use https://github.com/cneud/alto-tools.
 
 # alto-ocr-text
 Extracts the text from an [ALTO](http://www.loc.gov/standards/alto/) file and writes it to `stdout`.
